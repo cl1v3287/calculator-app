@@ -81,5 +81,5 @@ function perform(m){
 }
 
 function reset(m){
-    location.reload
+    location.reload();
 }
